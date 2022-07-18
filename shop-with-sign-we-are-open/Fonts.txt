@@ -1,0 +1,9 @@
+Fonts used in this design:
+
+Font: Cabin
+Author: Impallari Type
+Url: http://www.fontsquirrel.com/fonts/cabin
+
+Font: Satisfy
+Author: Sideshow
+Url: https://www.fontsquirrel.com/fonts/satisfy
